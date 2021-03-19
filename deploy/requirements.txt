@@ -1,7 +1,7 @@
 pyTelegramBotAPI==3.6.1
 python-telegram-bot==7.0.1
 requests==2.13.0
-pillow==5.3.0
+pillow==8.1.1
 urllib3==1.25.7
 numpy==1.17.3
 boto3==1.9.99
